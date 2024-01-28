@@ -34,7 +34,7 @@ body {
 .container1 {
     position: absolute;
     top: 40%;
-    left: 30%;
+    left: 15%;
     transform: translate(-50%, -50%);
     background-color: white;
     min-width: 300px;
